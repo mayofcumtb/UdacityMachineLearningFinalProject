@@ -1,16 +1,16 @@
-# Machine Learning Engineer Nanodegree
-## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+# Machine Learning Engineer Nanodegree 
+## Capstone Proposal 
+马岩 macumtb@163.com
+January 15th, 2017
 
 ## Proposal
 _(approx. 2-3 pages)_
 
-### Domain Background
+### Domain Background (项目概览)
 _(approx. 1-2 paragraphs)_
 
 In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
-
+    计算机视觉是一门研究如何“教会”计算机来“看”清事务的科学，
 ### Problem Statement
 _(approx. 1 paragraph)_
 
